@@ -1,2 +1,2 @@
 # ATMTL
-multi-task learning with adaptive temporal structure
+Efficient Multi-task Learning with Adaptive Temporal Structure for Progression Prediction
